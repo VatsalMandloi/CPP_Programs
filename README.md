@@ -1,2 +1,2 @@
 # cpp_program
-these are few c++ program which i code in my learning phase
+program include pattern puzzle,string operation, to get use to functions and implimentation of Object Oriented Programming.
